@@ -1,9 +1,9 @@
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Averon Hub
 ### Web Developer & Digital Solutions Specialist
 
 💻 I build fast, modern websites for local businesses  
 🚀 Helping small businesses get online without breaking the bank  
-📍 Based in [Your City]
+📍 Based in India
 
 ---
 
@@ -35,9 +35,7 @@ Custom websites built for service businesses:
 
 ## 📫 Let's Connect
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🌐 Portfolio: [Your Website]
+- 📧 Email: averonhub8@gmail.com
 
 ---
 
